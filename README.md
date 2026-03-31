@@ -117,8 +117,9 @@ The project is divided into five structured tasks, each addressing a critical as
 
 ## 🔗 Important Links
 - **📊 Google Form Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScd_aTz2Rl-2oCxpB5_Fkj_jpakDPioinXRtoar5dCvRQaY6A/viewform?usp=dialog  
-- **💻 GitHub Repository:**
+- **💻 GitHub Repository:** https://github.com/yash25bce10008-blip/DIGITAL_LITERACY.git
 - **👔 LinkedIn Profile:** https://www.linkedin.com/in/yash-khare-0b18563bb/?isSelfProfile=true
+- **👔 Canva link:** https://canva.link/xzdck9f0jalgjpa
 
 ---
 
